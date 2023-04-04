@@ -1,6 +1,6 @@
 
 **<div align = "center">NHÓM 15 PHÁT TRIỂN PHẦN MỀM HƯỚNG DỊCH VỤ</div>**  
-Thành viên trong nhóm:  
+Thành viên trong nhóm:
 * Nguyễn Văn Đạt  
 * Hoàng Công Thiện  
 * Ngô Minh Quang  
