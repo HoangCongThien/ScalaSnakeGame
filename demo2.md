@@ -1,7 +1,7 @@
 #**NHÓM 15 PHÁT TRIỂN PHẦN MỀM HƯỚNG DỊCH VỤ**\\
-Thành viên: - Nguyễn Văn Đạt\\
-            - Hoàng Công Thiện\\
-            - Ngô Minh Quang\\
+Thành viên: Nguyễn Văn Đạt
+            Hoàng Công Thiện
+            Ngô Minh Quang
 ***
 1. Đề tài bài tập lớn: Xây dựng ứng dụng đặt vé máy bay\\
 <img src="https://www.google.com/search?q=%C4%91%E1%BA%B7t+chuy%E1%BA%BFn+bay&rlz=1C1UEAD_enVN991VN991&sxsrf=APwXEdcGOE4U8bhZ8PYntHEGf_4iCw-Ibg:1680619238460&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiH3dfFupD-AhVytlYBHWc1BOwQ_AUoBHoECAEQBg&biw=1536&bih=780&dpr=1.25#imgrc=aUqpk9TZbe947M">\\
