@@ -2,8 +2,9 @@
 **<div align = "center">NHÓM 15 PHÁT TRIỂN PHẦN MỀM HƯỚNG DỊCH VỤ</div>**  
 Thành viên trong nhóm:
 * Nguyễn Văn Đạt - B17DCCN116  
+* Hoàng Công Thiện - B18DCCN637
 * Ngô Minh Quang - B17DCCN507  
-* Hoàng Công Thiện - B18DCCN637  
+  
 ***
 
 **I. Đề tài bài tập lớn**  
