@@ -47,4 +47,4 @@ Bảng phân tích chi tiết các bước (workflow) của quy trình kinh
 *	Chấp nhận việc nhận thông tin của khách hàng và xuất thông tin vé máy bay cho khách hàng  
 *	Kết thúc quy trình  
 
-![Demo](https://github.com/jnp2018/team-project-n2_15/issues/1#issue-1663508562)
+![Demo](https://drive.google.com/drive/folders/1prCMSiZaA2bCw74WmTD7Jj5iY6IKDUYS)
