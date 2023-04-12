@@ -47,4 +47,37 @@ Bảng phân tích chi tiết các bước (workflow) của quy trình kinh
 *	Chấp nhận việc nhận thông tin của khách hàng và xuất thông tin vé máy bay cho khách hàng  
 *	Kết thúc quy trình  
 
-![Demo](https://drive.google.com/drive/folders/1prCMSiZaA2bCw74WmTD7Jj5iY6IKDUYS)
+![Img 01](https://drive.google.com/drive/folders/1prCMSiZaA2bCw74WmTD7Jj5iY6IKDUYS) Hình 1.1. Quy trình khách hàng đặt vé máy bay  
+
+
+**Bước 2: Lọc ra các hành động không phù hợp (Filter Out Unsuitable Actions)**  
+~~1. Nhận thông tin tiêu dùng của khách hàng~~  
+
+
+**Bước 3: Xác định ứng viên dịch vụ thực thể (Define Entity Service Candidates)**  
+![Img 02](https://drive.google.com/drive/folders/1prCMSiZaA2bCw74WmTD7Jj5iY6IKDUYS) Hình 3.1. Mô hình thực thể, thể hiện các thực thể kinh doanh của tiến trình dịch vụ khách hàng đặt vé  
+Dưới đây là các ứng viên dịch vụ thực thể và thuộc tính của chúng:  
+Khách hàng: Lấy thông tin (Tên, địa chỉ, sđt, ngày sinh)  
+Vé máy bay: Xuất thông tin cho khách hàng (Thời gian, địa điểm, vị trí ghế, giá vé )  
+![Img 03](https://drive.google.com/drive/folders/1prCMSiZaA2bCw74WmTD7Jj5iY6IKDUYS) Hình 3.2 Ứng cử viên dịch vụ Khách hàng  
+![Img 04](https://drive.google.com/drive/folders/1prCMSiZaA2bCw74WmTD7Jj5iY6IKDUYS) Hình 3.3 Ứng cử viên dịch vụ Vé máy bay  
+Các ứng viên dịch vụ được coi là không bất khả tri được in đậm (là các ứng viên dịch vụ không thể tái sử dụng và chỉ được dùng cho 1 mục đích duy nhất):  
+*	Nhận thông tin của khách hàng  
+*	**Xác nhận thông tin của khách hàng**  
+*	**Nếu thông tin chưa được đầy đủ hoặc chính xác, từ chối việc nhập thông tin**  
+*	Tạo thông báo giải thích lý do từ chối  
+*	Đưa ra thông báo từ chối bảng hoá đơn cho nhân viên  
+*	**Nếu thông tin của hành khách đã chính xác, cập nhật và lưu hồ sơ của khách hàng**  
+*	**Chấp nhận việc nhận thông tin và kết thúc quy trình**
+
+
+**Bước 4: Xác định logic cụ thể của quy trình (Identify Process Specific Logic)**  
+Hành động nhận thông tin và các hành động ở dưới đại diện cho quá trình nhận thông tin của khách hàng:   
+**NHẬN THÔNG TIN CỦA KHÁCH HÀNG**  
+*	Nhận thông tin của khách hàng đưa ra  
+*	Nếu thông tin chưa được đầy đủ hoặc chính xác, từ chối việc xác nhận  
+*	Nếu thông tin đầy đủ và chính xác, xác nhận vé cho khách hàng  
+*	Chấp nhận việc nhận thông tin và kết thúc quy trình  
+
+
+
